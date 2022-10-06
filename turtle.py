@@ -1,3 +1,5 @@
+print(7*24)
+
 import turtle
 turtle.shape('turtle')
 turtle.forward(100)
